@@ -1,1 +1,1 @@
-console.log('Hello, World!')
+console.log('Hello, World!, This is Javascript in 30 days')
